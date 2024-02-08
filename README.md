@@ -1,4 +1,4 @@
-# Vehicle Counting with DeepSORT Streamlit Application
+# Vehicle Counting and Tracking with DeepSORT Streamlit Application
 Welcome to the Vehicle Counting with DeepSORT Streamlit Application repository! This project utilizes the DeepSORT (Deep Simple Online and Realtime Tracking) algorithm for tracking and counting vehicles in videos. The application is built with Streamlit, providing an interactive and user-friendly interface for visualizing the tracking results.
 
 Table of Contents
